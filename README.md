@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil Bishnoi</h1>
-<h3 align="center">Ui developer based in india.</h3>
+<h3 align="center">Ui developer.</h3>
 
 - 🌱 I’m currently learning **Next.js Typescript Node.js**
 
