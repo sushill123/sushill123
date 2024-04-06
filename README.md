@@ -7,7 +7,7 @@
 
 - 📝 I am writing tech articles on [https://dev.to/bishnoi_sushill](https://dev.to/bishnoi_sushill)
   
-- 📝 I am writing articles on [https://medium.com/@bishnoisushill]
+- ✍🏻 Medium - https://medium.com/@bishnoisushill
 
 - 💬 Ask me about **html, css, javascript, react, node.js**
 
