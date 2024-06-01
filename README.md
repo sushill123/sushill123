@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sushil and I'm a UI developer, from India.</h2>
+<h2 align="left">Hey, I'm Sushil. I develop UIs, and I'm from India.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxlc2p5Z214d2dhdW9idjl2cmpueDFpd2c4cGNqc2VtbnUyMjhwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978mq7x6nmcMr1m/giphy.webp"  />
 
 ###
 
@@ -53,5 +53,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sushill123/sushill123/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
