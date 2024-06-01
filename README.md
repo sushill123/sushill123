@@ -1,5 +1,3 @@
-<h2 align="left">Hey, I'm Sushil. I develop UIs, and I'm from India.</h2>
-
 ###
 
 <div align="center">
